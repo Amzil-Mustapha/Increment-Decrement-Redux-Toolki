@@ -14,9 +14,15 @@ To overcome these challenges, the Redux team introduced Redux Toolkit which enab
 ## Steps To Follow
 
 1- Create a Redux Store
+
 2- Provide the Redux Store to React Main App.js
+
 3- Create a Redux State Slice
+
 4- Add Slice Reducers to the Store
+
 5- Use Redux State and Actions in React Component
+
 6- To use redux state in other component use useSelector hook from react-redux.
+
 7- First Step is to configure our Store, now this is where you’ll see the magic of redux toolkit! Now your redux store src/app/store.js will contains
