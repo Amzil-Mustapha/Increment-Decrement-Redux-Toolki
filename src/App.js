@@ -1,12 +1,8 @@
-import './App.css';
-import BookList from './components/BookList'
+import Counter from "./features/counter/Counter";
 
 function App() {
   return (
-    <div className="App">
-      <h1 className='title'>Books Store</h1>
-      <BookList/>
-    </div>
+    <><Counter/></>
   );
 }
 
