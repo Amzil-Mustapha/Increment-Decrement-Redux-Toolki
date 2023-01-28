@@ -25,4 +25,4 @@ To overcome these challenges, the Redux team introduced Redux Toolkit which enab
 
 6- To use redux state in other component use useSelector hook from react-redux.
 
-7- First Step is to configure our Store, now this is where you’ll see the magic of redux toolkit! Now your redux store src/app/store.js will contains
+7- First Step is to configure our Store, now this is where you’ll see the magic of redux toolkit!
